@@ -1,0 +1,7 @@
+non_unique_courier_error = '{"message": "Этот логин уже используется"}'
+successful_operation_message = '{"ok":true}'
+missing_required_registration_fields = '{"message": "Недостаточно данных для создания учетной записи"}'
+non_existing_courier_error = '"message": "Курьера с таким id нет"'
+missing_required_removal_fields = '"message":  "Недостаточно данных для удаления курьера"'
+missing_required_login_fields = '{"message":  "Недостаточно данных для входа"}'
+non_existing_account_error = '{"message": "Учетная запись не найдена"}'
